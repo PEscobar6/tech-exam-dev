@@ -1,6 +1,6 @@
 {
   "name": "tech-exam-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple code repository",
   "main": "src/index.js",
   "scripts": {
