@@ -7,6 +7,10 @@ app.get("/", (req, res) => {
     res.send("ping");
 });
 
+app.get("/services", (req, res) => {
+    res.send("services page");
+});
+
 app.listen(port, () => {
     console.log('Server listening at port 3000');
 })
