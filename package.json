@@ -1,0 +1,22 @@
+{
+  "name": "tech-exam-dev",
+  "version": "1.0.0",
+  "description": "This is a simple code repository",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PEscobar6/tech-exam-dev.git"
+  },
+  "author": "Pablo Escobar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PEscobar6/tech-exam-dev/issues"
+  },
+  "homepage": "https://github.com/PEscobar6/tech-exam-dev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
